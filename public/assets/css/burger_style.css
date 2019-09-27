@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/z/burger-pattern-white-background-seamless-burgers-vector-hand-drawn-illustration-banners-70790730.jpg");
+}
+
+h1, h2 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    text-shadow: rgb(24, 21, 21) 0.3em 0.3em 0.3em;
+}
